@@ -1,0 +1,39 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# VS Code settings
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Eclipse
+*.launch
+.settings/
+.project
+.classpath
+bin/
+target/
+
+# Maven
+log/
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Gradle
+.gradle/
+build/
+
+# Mac system files
+.DS_Store
